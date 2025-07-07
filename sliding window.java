@@ -9,6 +9,7 @@ public class Main
 	    	    System.out.println("enter the window size ");
 
 	    int k=sc.nextInt();
+	    System.out.print("enetr the elements: ");
 	    int arr[]=new int[n];
 	    for(int i=0;i<n;i++)
 	    {
