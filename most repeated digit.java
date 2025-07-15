@@ -39,3 +39,10 @@ public class Main {
     
      }
 }
+
+
+Input:
+Enter the digits (space-separated): 123 455 343 98
+
+Output:
+The most repeated digit is: 4
